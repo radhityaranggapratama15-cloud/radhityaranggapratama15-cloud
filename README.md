@@ -1,8 +1,8 @@
-## Hi there, I'm radhityaranggapratama 👋
+## Hi there, I'm Tamma 👋
 
-### ⚡ "Debugging is like being the detective in a crime movie where you are also the murderer." 
+### ⚡ "Security is like a lock: if you think it's unbreakable, you're just not trying hard enough."
 
-I'm a **Full-Stack Developer** passionate about building modern web apps. Currently focusing on mastering React, Next.js, and Laravel to build something epic!
+I'm a **Cyber Security Enthusiast** focused on understanding systems, finding vulnerabilities, and securing digital infrastructures. Currently learning Linux, networking, and ethical hacking to build real-world security skills.
 
 
 ---
@@ -20,16 +20,13 @@ I'm a **Full-Stack Developer** passionate about building modern web apps. Curren
 ---
 
 ### 🛠️ Tech Stack
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 
 ### 📫 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/renka_45446)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dittz39)
 
 
 ### 🚀 Featured Projects
