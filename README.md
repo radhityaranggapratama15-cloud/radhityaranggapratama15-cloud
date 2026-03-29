@@ -15,10 +15,6 @@ I'm a **Cyber Security Enthusiast** focused on understanding systems, finding vu
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=radhityaranggapratama15-cloud&theme=tokyonight&hide_border=true)
 
-### 🐍 My Contribution Snake
-![Snake Animation](https://raw.githubusercontent.com/radhityaranggapratama15-cloud/radhityaranggapratama15-cloud/output/github-contribution-grid-snake.svg)
----
-
 ### 🛠️ Tech Stack
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
